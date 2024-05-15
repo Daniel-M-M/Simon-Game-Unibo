@@ -1,0 +1,4 @@
+[wokwi]
+version = 1
+firmware = 'build\SIMON_GAME.ino.hex'
+elf = 'build\SIMON_GAME.ino.elf'

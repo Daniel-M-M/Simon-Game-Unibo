@@ -1,0 +1,6 @@
+#line 1 "C:\\Users\\ace_m\\OneDrive\\Documenti\\quarto_semestre_TSI\\Embedded_IoT\\SIMON_GAME\\.vscode\\arduino.json"
+{
+    "sketch": "SIMON_GAME.ino",
+    "board": "arduino:avr:uno",
+    "output": "build"
+}
